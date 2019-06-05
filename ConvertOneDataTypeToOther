@@ -1,4 +1,6 @@
  fun main(args : Array<String>){
+ var s: String =readLine()!!.toString()      //taking input from user
+ println(s)
  var i: Int = 3
         var str : String ="12"
         var istr :Int = str.toInt()
