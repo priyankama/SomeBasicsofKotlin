@@ -1,0 +1,12 @@
+ fun main(args : Array<String>){
+ var i: Int = 3
+        var str : String ="12"
+        var istr :Int = str.toInt()
+        println(i)
+        println(str)
+        println(istr)
+        var f :Float = 3.14.toFloat()
+        println(f.toString())
+        var fi : Int = f.toInt()
+        println(fi)
+        }
